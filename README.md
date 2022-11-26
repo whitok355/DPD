@@ -1,24 +1,4 @@
-# test-task
+Тестовое задание для DPD
+При написание использовался Vue 3, Vue router.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Для запуска необходимо клонировать репозиторий по ссылке https://github.com/whitok355/DPD.git, далее запустить проект с помощью npm run serve
